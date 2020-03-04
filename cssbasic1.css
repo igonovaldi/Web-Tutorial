@@ -1,0 +1,33 @@
+/*
+Tag selector
+ */
+h2{
+  color: rgb(45, 64, 142);
+}
+
+/*
+Class selector
+ */
+.ordered{
+  color: rgb(99, 57, 95)
+}
+.unordered{
+  color: rgb(32, 113, 78)
+}
+
+/*
+Multiple class selector
+ */
+.txt-color{
+  color: rgb(219, 15, 211)
+}
+.bg-color{
+  background: rgb(177, 201, 227)
+}
+
+/*
+ID selector
+ */
+#idbgcolor{
+  background-color: rgb(228, 247, 136)
+}
